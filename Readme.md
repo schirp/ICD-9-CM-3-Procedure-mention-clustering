@@ -98,3 +98,7 @@ icd9v3_sorted = icd9v3.sort_values(by = ['label'],
 1. 如果每个手术都能有详细的介绍，那学习的文本数量能大幅增加，从而获得更可靠的词向量
 2. 医学方面的停词表的建立
 3. 加入其他参数，如：手术费用，每年实施这个手术的人数等
+
+
+Licenses
+Copyright © 2018 Yitao Ma.
